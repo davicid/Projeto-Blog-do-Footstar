@@ -1,0 +1,142 @@
+/* =======================Layout==================*/
+body{
+	background-color: #F2F0F0;
+}
+
+body a{
+	color: #324759;
+	font-family: "Verdana", Arial, serif;
+}
+
+a:hover{
+	text-decoration: none;
+}
+
+/* ============== Barra de Navegação =============*/
+.navbar-light{
+	background-color: #324759;
+}
+
+#menu_navegacao a{
+	color: #F2F0F0;
+	margin-right: 30px;
+}
+
+#menu_nav{
+	background: #F2F0F0;
+	
+}
+
+#blog_logo{
+	color: #F2F0F0;
+	font-family: "Times New Roman", Times, serif;
+}
+
+/* ============== Capa =============*/
+
+.capa{
+	background: #F2F0F0;
+	display: table;
+	width: 100%;
+	padding-top: 20px;
+	margin: 80px 0px 30px 0px;
+	color: #324759;
+	text-align: center;
+	vertical-align: middle;
+}
+
+/* ============== Seção =============*/
+.area_secao{
+	margin-top: 10px;
+}
+
+.area_introducao{
+	background-color: white;
+	width: 100%;
+	display: table;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.area_introducao h1{
+	text-align: center;
+	vertical-align: middle;
+	color: #324759;
+}
+
+.row{
+	padding-left: 20px;
+}
+
+.row a{
+	font-size: 20px;
+}
+
+/* ============== Tela de Login e Cadastro ===============*/
+
+.area{
+	background-color: white;
+}
+
+/* ============== Noticias =============*/
+
+.area_noticias{
+	padding-right: 45px;
+}
+
+.titulo_noticias{
+	color: #324759;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 70px;
+}
+
+.texto_noticias{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+}
+
+.nome_jornalista{
+	text-align: center;
+	vertical-align: middle;
+}
+
+/* ============== Rodapé =============*/
+
+.rodape{
+	width: 100%;
+	background:#324759;
+	text-align: center;
+	vertical-align: middle;
+	margin-top: 55px;
+}
+
+.rodape b{
+	color: white;
+}
+
+
+
+
+/* =========Inserção de notíticas =========*/
+
+.area_insercao{
+	background: #F2F0F0;
+	padding: 100px 0px 50px 0px;
+}
+
+
+/* =========Inserção de comentarios =========*/
+
+.area_comentarios{
+	margin-top: 10px;
+	color: #324759;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.borda{
+	border: 1px solid black;
+}
+
+#botao_remover{
+	margin-left: 10px;
+}
